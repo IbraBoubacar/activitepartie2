@@ -18,6 +18,8 @@
   </head>
   <body>
     <div class="container col-md-offset-4">
+	<!-- Formulaire pour demander utilisateur et mot de passe pour accéder a l'application -->
+	
 	<form method="post" action="controleur/authentify.php">
 	<div class="input-group col-md-3">
 	<span  class="input-group-btn">
